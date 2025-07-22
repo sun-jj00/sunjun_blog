@@ -1,0 +1,8 @@
+---
+title: "Intro"
+author: "Kim Sun Jun"
+date: "2025-07-22"
+categories: [news, code, analysis]
+---
+
+나의 첫 블로그입니다!!

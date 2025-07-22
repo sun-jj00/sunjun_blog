@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs # 추가
+website:
+  title: "sunjun blog"
+  navbar:
+    right:  #네비게이션 바 오른쪽에 배치한다
+      - about.qmd
+      - icon: github
+        href: https://github.com/sun-jj00
+     
+format:
+  html:
+    theme:
+      - sketchy
+      - brand
+    css: styles.css
+
+
+
+
+

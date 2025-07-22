@@ -1,0 +1,16 @@
+---
+title: "Kim Sun Jun"
+image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnW2mhPxMZdtNYy3mx8nAa5OrCNbtMDUfUKw&s"
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com
+    - icon: github
+      text: Github
+      href: https://github.com/sun-jj00
+
+---
+
+선준 블로그
